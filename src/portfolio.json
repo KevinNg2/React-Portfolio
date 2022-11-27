@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Teacher's Pet",
+        "image": "src/assets/images/teacherspethomepage.png",
+        "github": "https://github.com/jffsun/teachers-pet",
+        "deploy": "https://aqueous-wildwood-21593.herokuapp.com/",
+        "topics": "Node.js, Express.js, RESTful API's, Handlebars.js, MYSQL, Sequelize ORM Database, "
+
+    },
+    {
+        "id": 2,
+        "name": "Work Day Scheduler",
+        "image": "src/assets/images/workdayscheduler.png",
+        "github": "https://github.com/KevinNg2/Third-Party-API-Work-Day-Scheduler",
+        "deploy": "https://kevinng2.github.io/Third-Party-API-Work-Day-Scheduler/",
+        "topics": "HTML, CSS, Javascript, Local Storage, Task Manager, Moment.js"
+    },
+    {
+        "id": 3,
+        "name": "Employee Tracker",
+        "image": "src/assets/images/teacherspethomepage.png",
+        "github": "https://github.com/KevinNg2/Employee-Tracker",
+        "deploy": "https://drive.google.com/file/d/1jh2z1Q3v7zM1wJ3XQ4eHOgTWVMMN0N-F/view",
+        "topics": "Content Managment Systems, MYSQL, Inquirer, Node.js"
+    },
+    {
+        "id": 4,
+        "name": "README.md Generator",
+        "image": "src/assets/images/README Generator using Node.js.gif",
+        "github": "https://github.com/KevinNg2/README-Generator",
+        "deploy": "https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view",
+        "topics": "Node.js, Inquirer"
+    },
+    {
+        "id": 5, 
+        "name": "Team Profile Generator",
+        "image": "src/assets/images/team profile generator.png",
+        "github": "https://github.com/KevinNg2/Team-Profile-Generator",
+        "deploy": "https://drive.google.com/file/d/1ime2eFYViknbWe-oAJjkeJ-P27WcKNSO/view",
+        "topics": "Node.js, HTML, CSS, Object Oriented Programming, Test Driven Development"
+    },
+    {
+        "id": 6,
+        "name": "Social Network API",
+        "image": "src/assets/images/Social Network API.gif",
+        "github": "https://github.com/KevinNg2/Social-Network-API",
+        "deploy": "https://github.com/KevinNg2/Social-Network-API/blob/main/assets/Social%20Network%20API.webm",
+        "topics": "API, Express.js, MongoDB, Mongoose, Moment.js, Insomnia"
+    }
+   
+]

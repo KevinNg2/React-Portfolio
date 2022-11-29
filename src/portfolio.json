@@ -21,16 +21,16 @@
     {
         "id": 3,
         "name": "Employee Tracker",
-        "image": "https://github.com/KevinNg2/React-Portfolio/blob/main/src/assets/images/employee-tracker.gif",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/employee-tracker.pic.png",
         "github": "https://github.com/KevinNg2/Employee-Tracker",
-        "deployedapp": "src/assets/images/employee-tracker.gif",
+        "deployedapp": "https://drive.google.com/file/d/1jh2z1Q3v7zM1wJ3XQ4eHOgTWVMMN0N-F/view",
         "description": "This is a command-line app constructed to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
         "topics": "Content Managment Systems, MYSQL, Inquirer, Node.js"
     },
     {
         "id": 4,
         "name": "README.md Generator",
-        "image": "https://github.com/KevinNg2/React-Portfolio/blob/main/src/assets/images/README%20Generator%20using%20Node.js.gif",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/readmegen.pic.png",
         "github": "https://github.com/KevinNg2/README-Generator",
         "deployedapp": "https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view",
         "description": "This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using node index.js.",
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "name": "Social Network API",
-        "image": "https://github.com/KevinNg2/React-Portfolio/blob/main/src/assets/images/Social%20Network%20API.gif",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/Social-Network-API.insomnia.pic.png",
         "github": "https://github.com/KevinNg2/Social-Network-API",
         "deployedapp": "https://github.com/KevinNg2/Social-Network-API/blob/main/assets/Social%20Network%20API.webm",
         "description": "an API built for a social network web application where users share their thoughts, react to friends' thoughts, and create a friend list",

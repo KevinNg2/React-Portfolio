@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KevinNg2/React-Portfolio/static/css/main.c7ff8f00.css",
+    "main.js": "/KevinNg2/React-Portfolio/static/js/main.8c749eca.js",
+    "static/media/KNHeadshot.png": "/KevinNg2/React-Portfolio/static/media/KNHeadshot.e9341959ff15178a2e75.png",
+    "index.html": "/KevinNg2/React-Portfolio/index.html",
+    "main.c7ff8f00.css.map": "/KevinNg2/React-Portfolio/static/css/main.c7ff8f00.css.map",
+    "main.8c749eca.js.map": "/KevinNg2/React-Portfolio/static/js/main.8c749eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ff8f00.css",
+    "static/js/main.8c749eca.js"
+  ]
+}

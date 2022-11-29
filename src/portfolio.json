@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Teacher's Pet",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/teacherspethomepage.png",
+        "github": "https://github.com/jffsun/teachers-pet",
+        "deployedapp": "https://aqueous-wildwood-21593.herokuapp.com/",
+        "description": "A classroom helper application that allows parents to submit important student information to their teacher.",
+        "topics": "Node.js, Express.js, RESTful API's, Handlebars.js, MYSQL, Sequelize ORM Database, "
+
+    },
+    {
+        "id": 2,
+        "name": "Work Day Scheduler",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/workdayscheduler.png",
+        "github": "https://github.com/KevinNg2/Third-Party-API-Work-Day-Scheduler",
+        "deployedapp": "https://kevinng2.github.io/Third-Party-API-Work-Day-Scheduler/",
+        "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
+        "topics": "HTML, CSS, Javascript, Local Storage, Task Manager, Moment.js"
+    },
+    {
+        "id": 3,
+        "name": "Employee Tracker",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/employee-tracker.pic.png",
+        "github": "https://github.com/KevinNg2/Employee-Tracker",
+        "deployedapp": "https://drive.google.com/file/d/1jh2z1Q3v7zM1wJ3XQ4eHOgTWVMMN0N-F/view",
+        "description": "This is a command-line app constructed to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+        "topics": "Content Managment Systems, MYSQL, Inquirer, Node.js"
+    },
+    {
+        "id": 4,
+        "name": "README.md Generator",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/readmegen.pic.png",
+        "github": "https://github.com/KevinNg2/README-Generator",
+        "deployedapp": "https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view",
+        "description": "This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using node index.js.",
+        "topics": "Node.js, Inquirer"
+    },
+    {
+        "id": 5, 
+        "name": "Team Profile Generator",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/team%20profile%20generator.png",
+        "github": "https://github.com/KevinNg2/Team-Profile-Generator",
+        "deployedapp": "https://drive.google.com/file/d/1ime2eFYViknbWe-oAJjkeJ-P27WcKNSO/view",
+        "description": "This application is designed to generate a team profile based on user input.",   
+        "topics": "Node.js, HTML, CSS, Object Oriented Programming, Test Driven Development"
+    },
+    {
+        "id": 6,
+        "name": "Social Network API",
+        "image": "https://raw.githubusercontent.com/KevinNg2/React-Portfolio/main/src/assets/images/Social-Network-API.insomnia.pic.png",
+        "github": "https://github.com/KevinNg2/Social-Network-API",
+        "deployedapp": "https://github.com/KevinNg2/Social-Network-API/blob/main/assets/Social%20Network%20API.webm",
+        "description": "An API built for a social network web application where users share their thoughts, react to friends' thoughts, and create a friend list",
+        "topics": "API, Express.js, MongoDB, Mongoose, Moment.js, Insomnia"
+    }
+   
+]

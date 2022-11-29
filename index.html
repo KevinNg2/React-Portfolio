@@ -16,9 +16,11 @@
         </header>
         <div class="header">
             <nav>
-                <a href="#About-Me">About Me</a>
-                <a href="#My-Projects">My Projects</a>
-                <a href="#Contact-Me">Contact Me</a>
+                <a href="#about">about</a>
+                <a href="#Portfolio">Portfolio</a>
+                <a href="#contact">contact</a>
+                <a href="#resume">resume</a>
+
             </nav>
           
         </div>
@@ -28,12 +30,30 @@
 <h2>About Me</h2>
 <img src="./assets/images/headshot .png" alt="Kevin Ng Headshot" class="float-left"/>
 
-<p>
-    My Name is Kevin Ng. I am currently enrolled at UCI aspiring  to become a successful professional full stack Software Enginner and Backend Developer. 
-    I swam at the University Of Rhode Island where I studied Kinesiology and was a member of the 2011 ECC Men's Swim Championship Team. 
-    I care deeply about fitness, technology, and the power of coding. 
-    Here are some fun projects I've created.
-</p>
+ <section className="title">
+            <h1 class="name">About: Kevin Ng</h1>
+            <hr></hr>
+
+            <div className="row justify-content-center">
+                <div className="col-10" id="about-section">
+                    <img src={myImage} className="my-image" alt="Kevin Ng" />
+                    <p>
+                        Kevin Ng is a proven Full Stack Web Developer with an ability to deliver quality results while collaborating in a rapidly changing work environment meeting deadlines and expectations. Kevin is currently enrolled at UCI Coding Bootcamp aspiring to become a Software Developer and ready to dominate the web! 
+                    </p>
+                    <p>
+                    Before transitioning into a focus on coding, Kevin provided quality customer service, trained team members, and facilitated daily protocols as an Aquatic Supervisor at Lifetime Athletic Club. He is currently a CFL1 Coach training athletes to become fitter & healthier using the CrossFit methodology.
+                    </p>
+                    <p>
+                        Skills: Personal Training, Crossfit Level 1 Coach , Swim Instruction, Content Creation, Communication, Deepend Fitness Tier 2 Instructor
+                    </p>
+                    {/* <p>
+                        View full <a href="#/resume" class="link">Resume</a>
+                    </p> */}
+
+
+                </div>
+            </div>
+        </section>
 </div>
         <main>
 <h2>My Projects</h2>
@@ -76,10 +96,8 @@
 
         <div class="footer">
             <h2>Contact Me</h2>            
-    <a href="tel:1-908-956-1282">&#9743</a>
     <a href="mailto:kevinng3292@gmail.com">&#9993</a>
     <a href="https://github.com/KevinNg2">GitHub</a>
-    <a href="https://www.instagram.com/kevin_ng___/" class="fa fa-instagram"></a>
     <a href="https://www.linkedin.com/in/kevin-ng-93357a236/" class="fa fa-linkedin"></a>
 
             

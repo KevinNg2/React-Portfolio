@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * ['React-Portfolio - Github'](https://github.com/KevinNg2/React-Portfolio)
 * ['Kevin Ng's React Portfolio'](https://kevinng2.github.io/React-Portfolio/)
 
-![](./src/assets/images/about.png)
-![](./src/assets/images/contact.png)
+![](./src/assets/images/aboutpage.png)
+![](./src/assets/images/contactpage.png)
 ![](./src/assets/images/resume%20page.png)
 ## User Story
 
